@@ -1,0 +1,7 @@
+label,prediction
+phishing,high_risk
+phishing,suspicious
+legitimate,likely_legitimate
+legitimate,suspicious
+phishing,likely_legitimate
+legitimate,likely_legitimate
